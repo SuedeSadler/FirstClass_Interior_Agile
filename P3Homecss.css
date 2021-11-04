@@ -1,0 +1,276 @@
+<<<<<<< HEAD
+.icon i, h1{
+display: inline;
+}
+.icon h1{
+    color: rgb(255, 255, 255);
+    padding-right: 400px;
+}
+.icon i{
+    
+    margin-left: 30px;
+    color: rgb(59, 160, 207);
+}
+.navbar{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.navbar-nav li{
+ padding-left:50px ;
+}
+.img-gradient{
+    position:relative;
+    display:inline-block;
+    
+}
+.img-gradient{
+    content:'';
+    position:relative;
+    left:0; top: 0px;
+    width:100px; height:100%;
+    display:inline-block;
+    background: -webkit-linear-gradient();
+    background: -webkit-linear-gradient(top, rgba(0,47,75,0.5) 0%,rgba(220, 66, 37, 0.5) 100%);
+  }
+  .img-gradient img{
+    display:block;
+  }
+  .midimg{
+      margin-top: 20px;
+      height: 400px;
+  }
+  .sideimg{
+      margin-top: 50px;
+      width: 250px;
+  }
+  .Jumbotron h2,h3{
+     
+      color: rgb(255, 255, 255);
+  }
+  .bgimg{
+      position: absolute;
+  }
+  .bg1{
+      display: flex;
+  }
+.big-banner{
+    background-image: url(https://www.trinityinteriordesign.co.nz/wp-content/uploads/2021/05/THREE.jpg);
+    
+}
+.big-banner1{
+    background-color: rgba(10, 10, 10, 0.699);
+}
+.td{
+    padding-left: 150px;
+}
+.align-middle h6{
+    padding-top: 30px;
+}
+.btn{
+    padding:10px
+}
+.h4{
+    color: black;
+}
+.stay{
+    padding-top: 40px;
+}
+.bicon{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: black;
+
+
+}
+.bicon i{
+    color: white;
+}
+.col-4{
+    padding-top:100px ;
+}
+.contact{
+    
+    padding:50px;
+}
+  #div2-1,
+  #div2-2 {
+    height: 50%;
+    
+  }
+  #div1,#div2{
+    height:50px;
+    padding-top: 50px;
+    
+    }
+  #div2.col-xs-6
+  {
+    padding:0px !important;
+  }
+ .id Address{
+     padding-top: 40px;
+
+ }
+ .div7{
+     color: black;
+ }
+ .CEO h4{
+     padding-left: 0px;
+     
+     
+ }
+.CEO h4,img{
+    padding-top: 50px;
+    display: inline;
+    
+}
+.explain {
+    padding:100px;
+    vertical-align: middle;
+
+}
+.ceocon container {
+    padding-top: 50px;
+}
+.row{
+    padding-bottom:50px
+=======
+.icon i, h1{
+display: inline;
+}
+.icon h1{
+    color: rgb(255, 255, 255);
+    padding-right: 400px;
+}
+.icon i{
+    
+    margin-left: 30px;
+    color: rgb(59, 160, 207);
+}
+.navbar{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.navbar-nav li{
+ padding-left:50px ;
+}
+.img-gradient{
+    position:relative;
+    display:inline-block;
+    
+}
+.img-gradient{
+    content:'';
+    position:relative;
+    left:0; top: 0px;
+    width:100px; height:100%;
+    display:inline-block;
+    background: -webkit-linear-gradient();
+    background: -webkit-linear-gradient(top, rgba(0,47,75,0.5) 0%,rgba(220, 66, 37, 0.5) 100%);
+  }
+  .img-gradient img{
+    display:block;
+  }
+  .midimg{
+      margin-top: 20px;
+      height: 400px;
+  }
+  .sideimg{
+      margin-top: 50px;
+      width: 250px;
+  }
+  .Jumbotron h2,h3{
+     
+      color: rgb(255, 255, 255);
+  }
+  .bgimg{
+      position: absolute;
+  }
+  .bg1{
+      display: flex;
+  }
+.big-banner{
+    background-image: url(https://www.trinityinteriordesign.co.nz/wp-content/uploads/2021/05/THREE.jpg);
+    
+}
+.big-banner1{
+    background-color: rgba(10, 10, 10, 0.699);
+}
+.td{
+    padding-left: 150px;
+}
+.align-middle h6{
+    padding-top: 30px;
+}
+.btn{
+    padding:10px
+}
+.h4{
+    color: black;
+}
+.stay{
+    padding-top: 40px;
+}
+.bicon{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: black;
+
+
+}
+.bicon i{
+    color: white;
+}
+.col-4{
+    padding-top:100px ;
+}
+.contact{
+    
+    padding:50px;
+}
+  #div2-1,
+  #div2-2 {
+    height: 50%;
+    
+  }
+  #div1,#div2{
+    height:50px;
+    padding-top: 50px;
+    
+    }
+  #div2.col-xs-6
+  {
+    padding:0px !important;
+  }
+ .id Address{
+     padding-top: 40px;
+
+ }
+ .div7{
+     color: black;
+ }
+ .CEO h4{
+     padding-left: 0px;
+     
+     
+ }
+.CEO h4,img{
+    padding-top: 50px;
+    display: inline;
+    
+}
+.explain {
+    padding:100px;
+    vertical-align: middle;
+
+}
+.ceocon container {
+    padding-top: 50px;
+}
+.row{
+    padding-bottom:50px
+>>>>>>> af655928f1dfdb1ddf935b2bdb604517537fd5dc
+}
