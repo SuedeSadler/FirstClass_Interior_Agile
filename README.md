@@ -1,1 +1,4 @@
 # FirstClass_Interior_Agile
+Website created as a team for an Interior Design Company(FristClass Interior Design). Our Small Team of 4 (Suede, Ritik, Reily and Ryley) have created the full project based Agile methodology. We organised it into 2 sprints with Reily as scrum master and suede, ritik and ryley as the team members incharge of completing the work.
+
+The purpose of this project is to help display the work of of "First class Interior" It consist of 4 pages: Home page- Showcases all recent projects, with different catergories. Contact page- A place where your able to get information on how to conact "First class Interiors" About page- Shows a little more detail on the company, who works there and there respective positions. Shop page- Showcases all there products for sale. This project was made by The Red Hot Techie Peppers
